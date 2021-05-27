@@ -1,0 +1,12 @@
+html {
+  background-color: saddlebrown;
+  .order-img {
+    width: 100px;
+    height: 100px;
+    background-image: url('../assets/司机.png');
+  }
+  div{
+    display: flex; 
+    background-color: red($color: #000000);
+  }
+}
